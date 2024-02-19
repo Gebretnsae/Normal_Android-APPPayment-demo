@@ -1,0 +1,3 @@
+rootProject.name = "testswitch"
+include ':app'
+include ':EthioPaySdk'
